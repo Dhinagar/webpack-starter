@@ -1,1 +1,1 @@
-# webpack-starter
+# webpack5-starter
